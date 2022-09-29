@@ -11,7 +11,7 @@ LED_B = board.GP2
 SCL = board.GP5
 SDA = board.GP4
 
-LCD_CLK  = board.GP6 # But really 5
+LCD_CLK  = board.GP6
 LCD_COPI = board.GP7
 LCD_DC   = board.GP11
 LCD_RST  = board.GP12
